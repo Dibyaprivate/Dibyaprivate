@@ -36,7 +36,7 @@
 
 <h1>My Achievements</h1>
     <h2>Cloud Computing Certificate</h2>
-    <img src="cloudcomputing(76).jpg" alt="Cloud Computing Certificate" style="max-width: 50%; height: auto;">
+    <img src="cloudcomputing(76).jpg" alt="Cloud Computing Certificate" style="max-width: 30%; height: auto;">
     <p>This is a certificate for completing the <strong>Cloud Computing</strong> course by NPTEL.</p>
     <ul>
         <li><strong>Score</strong>: 75/100</li>
