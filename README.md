@@ -35,12 +35,12 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibyaprivate&" alt="dibyaprivate" /></p>
 
 <h1>My Achievements</h1>
-    <h2>Cloud Computing Certificate</h2>
-    <img src="cloudcomputing(76).jpg" alt="Cloud Computing Certificate" style="max-width: 10%; height: auto;">
-    <p>This is a certificate for completing the <strong>Cloud Computing</strong> course by NPTEL.</p>
-    <ul>
-        <li><strong>Score</strong>: 75/100</li>
-        <li><strong>Roll No=NPTEL24CS118S950205466</strong>: 654</li>
-    </ul>
+<h2>Cloud Computing Certificate</h2>
+<img src="cloudcomputing(76).jpg" alt="Cloud Computing Certificate" style="max-width: 8%; height: auto;">
+<p>This is a certificate for completing the <strong>Cloud Computing</strong> course by NPTEL.</p>
+<ul>
+    <li><strong>Score</strong>: 75/100</li>
+    <li><strong>Roll No:</strong> NPTEL24CS118S950205466</li>
+</ul>
 
 
