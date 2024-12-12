@@ -56,14 +56,14 @@
 
 ---
 ### 🏆 Achievements:
-<h2 align="center">🎓 Cloud Computing Certificates 🎓</h2>
+<h2 align="center">🎓 NPTEL CERTIFICATES 🎓</h2>
 <p align="center" style="display: flex; justify-content: center; gap: 10px; background-color: #f5f5f5; padding: 20px; border-radius: 10px;">
   <img src="cloudcomputing(76).jpg" alt="Cloud Computing Certificate 1" style="width: 40%; height: auto; border: 2px solid #FFC300; border-radius: 8px;" />
-  <img src="certificate_image_2.png" alt="Cloud Computing Certificate 2" style="width: 40%; height: auto; border: 2px solid #FFC300; border-radius: 8px;" />
+  <img src="MANAGEMENTINFORMATIONSYSTEM.JPG" alt="MANAGEMENT INFORMATION SYSTEM" style="width: 40%; height: auto; border: 2px solid #FFC300; border-radius: 8px;" />
 </p>
 <ul>
   <li><strong>Certificate 1 Score:</strong> 75/100</li>
-  <li><strong>Certificate 2 Score:</strong> 85/100</li>
+  <li><strong>Certificate 2 Score:</strong> 72/100</li>
 </ul>
 
 
