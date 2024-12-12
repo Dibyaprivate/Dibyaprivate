@@ -9,12 +9,12 @@
 ---
 
 ### 🚀 About Me:
-- 🔭 **I’m currently working on:** [DevOps Project](mailto:ndibyajyotinayak@gmail.com)  
+- 🔬 **I’m currently working on:** [DevOps Project](mailto:ndibyajyotinayak@gmail.com)  
 - 🌱 **I’m currently learning:** **DevOps with AWS**  
-- 👯 **I’m looking to collaborate on:** **Exciting DevOps Projects**  
+- 💝 **I’m looking to collaborate on:** **Exciting DevOps Projects**  
 - 🤝 **I’m looking for help with:** **Advanced DevOps Automation**  
-- 💬 **Ask me about:** **DevOps, AWS, and Cloud Solutions**  
-- 📫 **How to reach me:** [ndibyajyotinayak@gmail.com](mailto:ndibyajyotinayak@gmail.com)  
+- 💭 **Ask me about:** **DevOps, AWS, and Cloud Solutions**  
+- 📧 **How to reach me:** [ndibyajyotinayak@gmail.com](mailto:ndibyajyotinayak@gmail.com)  
 
 ---
 
@@ -30,7 +30,7 @@
 
 ---
 
-### 🛠️ Skills and Tools:
+### 🔧 Skills and Tools:
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" />
@@ -39,27 +39,26 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Core Java" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" />
 </p>
 
 ---
 
-### 📈 GitHub Stats:
+### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dibyaprivate&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyaprivate&layout=compact&theme=radical" alt="Top Languages" />
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=dibyaprivate&" alt="dibyaprivate" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dibyaprivate&theme=radical" alt="GitHub Streak" />
 </p>
-
-
 
 ---
 
 ### 🏆 Achievements:
 <h2 align="center">🎓 Cloud Computing Certificate 🎓</h2>
 <p align="center">
-  <img src="certificate_image_name.png" alt="Cloud Computing Certificate" style="max-width: 100%; height: auto; border: 2px solid #FFC300; border-radius: 8px;" />
+  <img src="cloudcomputing(76).jpg" alt="Cloud Computing Certificate" style="max-width: 100%; height: auto; border: 2px solid #FFC300; border-radius: 8px;" />
 </p>
 <ul>
   <li><strong>Score:</strong> 75/100</li>
@@ -71,4 +70,5 @@
 ### 🎉 Fun Fact:
 - ⚡ **I love exploring new tech and sharing knowledge!**
 - 🐾 **I have a vegetarian Pitbull and a cat as my companions!**
+
 
