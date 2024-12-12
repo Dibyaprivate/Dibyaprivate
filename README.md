@@ -59,7 +59,7 @@
 ### 🏆 Achievements:
 <h2 align="center">🎓 Cloud Computing Certificate 🎓</h2>
 <p align="center">
-  <img src="cloudcomputing(76).jpg" alt="Cloud Computing Certificate" style="max-width: 40%; height: auto%; border: 2px solid #FFC300; border-radius: 8px;" />
+  <img src="cloudcomputing(76).jpg" alt="Cloud Computing Certificate" style="max-width: 200px; height: 200px; border: 2px solid #FFC300; border-radius: 8px;" />
 </p>
 <ul>
   <li><strong>Score:</strong> 75/100</li>
