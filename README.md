@@ -34,6 +34,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibyaprivate&" alt="dibyaprivate" /></p>
 
-
+<P><img align="center" src="cloudcomputing(76).jpg" alt="cloudcomputing"/></P>
 
 
