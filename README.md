@@ -30,72 +30,25 @@
 
 ---
 ### 🔧 Skills and Tools:
-<div style="display: flex; flex-wrap: nowrap; overflow-x: auto; gap: 20px; align-items: center; padding: 10px;">
-  <div style="text-align: center; flex-shrink: 0;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="80" height="80" title="AWS" />
-    <p>AWS</p>
-  </div>
-  <div style="text-align: center; flex-shrink: 0;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="80" height="80" title="Docker" />
-    <p>Docker</p>
-  </div>
-  <div style="text-align: center; flex-shrink: 0;">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="80" height="80" title="Kubernetes" />
-    <p>Kubernetes</p>
-  </div>
-  <div style="text-align: center; flex-shrink: 0;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="80" height="80" title="Git" />
-    <p>Git</p>
-  </div>
-  <div style="text-align: center; flex-shrink: 0;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="80" height="80" title="Linux" />
-    <p>Linux</p>
-  </div>
-  <div style="text-align: center; flex-shrink: 0;">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="80" height="80" title="Jenkins" />
-    <p>Jenkins</p>
-  </div>
-  <div style="text-align: center; flex-shrink: 0;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80" height="80" title="Python" />
-    <p>Python</p>
-  </div>
-  <div style="text-align: center; flex-shrink: 0;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Core Java" width="80" height="80" title="Core Java" />
-    <p>Core Java</p>
-  </div>
-  <div style="text-align: center; flex-shrink: 0;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80" title="JavaScript" />
-    <p>JavaScript</p>
-  </div>
-  <div style="text-align: center; flex-shrink: 0;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="80" height="80" title="HTML5" />
-    <p>HTML5</p>
-  </div>
-  <div style="text-align: center; flex-shrink: 0;">
-    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="80" height="80" title="Ansible" />
-    <p>Ansible</p>
-  </div>
-  <div style="text-align: center; flex-shrink: 0;">
-    <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg" alt="Maven" width="80" height="80" title="Maven" />
-    <p>Maven</p>
-  </div>
-  <div style="text-align: center; flex-shrink: 0;">
-    <img src="https://www.vectorlogo.zone/logos/hashicorp/hashicorp-icon.svg" alt="HCP Cloud" width="80" height="80" title="HCP Cloud" />
-    <p>HCP Cloud</p>
-  </div>
-  <div style="text-align: center; flex-shrink: 0;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg" alt="Prometheus" width="80" height="80" title="Prometheus" />
-    <p>Prometheus</p>
-  </div>
-  <div style="text-align: center; flex-shrink: 0;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" alt="Grafana" width="80" height="80" title="Grafana" />
-    <p>Grafana</p>
-  </div>
-  <div style="text-align: center; flex-shrink: 0;">
-    <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" width="80" height="80" title="Selenium" />
-    <p>Selenium</p>
-  </div>
-</div>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="30" height="30" title="AWS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30" height="30" title="Docker" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="30" height="30" title="Kubernetes" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30" title="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30" title="Linux" />
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="30" height="30" title="Jenkins" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30" title="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Core Java" width="30" height="30" title="Core Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" title="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30" title="HTML5" />
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="30" height="30" title="Ansible" />
+  <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg" alt="Maven" width="30" height="30" title="Maven" />
+  <img src="https://www.vectorlogo.zone/logos/hashicorp/hashicorp-icon.svg" alt="HCP Cloud" width="30" height="30" title="HCP Cloud" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg" alt="Prometheus" width="30" height="30" title="Prometheus" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" alt="Grafana" width="30" height="30" title="Grafana" />
+  <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" width="30" height="30" title="Selenium" />
+</p>
+
 
 
 ---
