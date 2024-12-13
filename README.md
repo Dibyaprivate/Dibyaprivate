@@ -30,72 +30,73 @@
 
 ---
 ### 🔧 Skills and Tools:
-<div style="display: flex; overflow-x: auto; white-space: nowrap; gap: 20px; padding: 10px; align-items: center;">
-  <div style="text-align: center; min-width: 100px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="60" height="60" title="AWS" />
+<div style="display: flex; flex-wrap: nowrap; overflow-x: auto; gap: 20px; align-items: center; padding: 10px;">
+  <div style="text-align: center; flex-shrink: 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="80" height="80" title="AWS" />
     <p>AWS</p>
   </div>
-  <div style="text-align: center; min-width: 100px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60" title="Docker" />
+  <div style="text-align: center; flex-shrink: 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="80" height="80" title="Docker" />
     <p>Docker</p>
   </div>
-  <div style="text-align: center; min-width: 100px;">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="60" height="60" title="Kubernetes" />
+  <div style="text-align: center; flex-shrink: 0;">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="80" height="80" title="Kubernetes" />
     <p>Kubernetes</p>
   </div>
-  <div style="text-align: center; min-width: 100px;">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60" title="Git" />
+  <div style="text-align: center; flex-shrink: 0;">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="80" height="80" title="Git" />
     <p>Git</p>
   </div>
-  <div style="text-align: center; min-width: 100px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60" title="Linux" />
+  <div style="text-align: center; flex-shrink: 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="80" height="80" title="Linux" />
     <p>Linux</p>
   </div>
-  <div style="text-align: center; min-width: 100px;">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="60" height="60" title="Jenkins" />
+  <div style="text-align: center; flex-shrink: 0;">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="80" height="80" title="Jenkins" />
     <p>Jenkins</p>
   </div>
-  <div style="text-align: center; min-width: 100px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60" title="Python" />
+  <div style="text-align: center; flex-shrink: 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80" height="80" title="Python" />
     <p>Python</p>
   </div>
-  <div style="text-align: center; min-width: 100px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Core Java" width="60" height="60" title="Core Java" />
+  <div style="text-align: center; flex-shrink: 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Core Java" width="80" height="80" title="Core Java" />
     <p>Core Java</p>
   </div>
-  <div style="text-align: center; min-width: 100px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" title="JavaScript" />
+  <div style="text-align: center; flex-shrink: 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80" title="JavaScript" />
     <p>JavaScript</p>
   </div>
-  <div style="text-align: center; min-width: 100px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60" title="HTML5" />
+  <div style="text-align: center; flex-shrink: 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="80" height="80" title="HTML5" />
     <p>HTML5</p>
   </div>
-  <div style="text-align: center; min-width: 100px;">
-    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="60" height="60" title="Ansible" />
+  <div style="text-align: center; flex-shrink: 0;">
+    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="80" height="80" title="Ansible" />
     <p>Ansible</p>
   </div>
-  <div style="text-align: center; min-width: 100px;">
-    <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg" alt="Maven" width="60" height="60" title="Maven" />
+  <div style="text-align: center; flex-shrink: 0;">
+    <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg" alt="Maven" width="80" height="80" title="Maven" />
     <p>Maven</p>
   </div>
-  <div style="text-align: center; min-width: 100px;">
-    <img src="https://www.vectorlogo.zone/logos/hashicorp/hashicorp-icon.svg" alt="HCP Cloud" width="60" height="60" title="HCP Cloud" />
+  <div style="text-align: center; flex-shrink: 0;">
+    <img src="https://www.vectorlogo.zone/logos/hashicorp/hashicorp-icon.svg" alt="HCP Cloud" width="80" height="80" title="HCP Cloud" />
     <p>HCP Cloud</p>
   </div>
-  <div style="text-align: center; min-width: 100px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg" alt="Prometheus" width="60" height="60" title="Prometheus" />
+  <div style="text-align: center; flex-shrink: 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg" alt="Prometheus" width="80" height="80" title="Prometheus" />
     <p>Prometheus</p>
   </div>
-  <div style="text-align: center; min-width: 100px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" alt="Grafana" width="60" height="60" title="Grafana" />
+  <div style="text-align: center; flex-shrink: 0;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" alt="Grafana" width="80" height="80" title="Grafana" />
     <p>Grafana</p>
   </div>
-  <div style="text-align: center; min-width: 100px;">
-    <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" width="60" height="60" title="Selenium" />
+  <div style="text-align: center; flex-shrink: 0;">
+    <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" width="80" height="80" title="Selenium" />
     <p>Selenium</p>
   </div>
 </div>
+
 
 ---
 
