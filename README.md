@@ -50,7 +50,6 @@
   <img src="https://raw.githubusercontent.com/testing-library/user-event/main/media/selenium-icon.svg" alt="Selenium" width="50" height="50" title="Selenium" />
 </p>
 
-<p align="center"><strong>Skills:</strong> AWS, Docker, Kubernetes, Git, Linux, Jenkins, Python, Core Java, JavaScript, HTML5, Ansible, Maven, HCP Cloud, Prometheus, Grafana, Selenium</p>
 
 ---
 
