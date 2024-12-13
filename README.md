@@ -31,7 +31,7 @@
 ---
 ### 🔧 Skills and Tools:
 <p align="center">
-  <img src="https://d1.awsstatic.com/logos/aws-logo-lockups/poweredbyaws/PB_AWS_logo_RGB_REV_SQ.5d82b95f257e5b3dc1fa3f6c148bcb20a1e57030.png" alt="AWS" width="30" height="30" title="AWS" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="30" height="30" title="AWS" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30" height="30" title="Docker" />
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="30" height="30" title="Kubernetes" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30" title="Git" />
@@ -48,6 +48,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" alt="Grafana" width="30" height="30" title="Grafana" />
   <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" width="30" height="30" title="Selenium" />
 </p>
+
 
 
 
