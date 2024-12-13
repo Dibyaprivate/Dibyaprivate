@@ -31,23 +31,24 @@
 ---
 ### 🔧 Skills and Tools:
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="60" height="60" title="AWS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="60" height="60" title="Docker" />
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="60" height="60" title="Kubernetes" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60" title="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60" title="Linux" />
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="60" height="60" title="Jenkins" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60" title="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Core Java" width="60" height="60" title="Core Java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" title="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60" title="HTML5" />
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="60" height="60" title="Ansible" />
-  <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg" alt="Maven" width="60" height="60" title="Maven" />
-  <img src="https://www.vectorlogo.zone/logos/hashicorp/hashicorp-icon.svg" alt="HCP Cloud" width="60" height="60" title="HCP Cloud" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg" alt="Prometheus" width="60" height="60" title="Prometheus" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" alt="Grafana" width="60" height="60" title="Grafana" />
-  <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" width="60" height="60" title="Selenium" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="50" height="50" title="AWS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50" title="Docker" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50" title="Kubernetes" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" title="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" title="Linux" />
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="50" height="50" title="Jenkins" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" title="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Core Java" width="50" height="50" title="Core Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" title="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" title="HTML5" />
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="50" height="50" title="Ansible" />
+  <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg" alt="Maven" width="50" height="50" title="Maven" />
+  <img src="https://www.vectorlogo.zone/logos/hashicorp/hashicorp-icon.svg" alt="HCP Cloud" width="50" height="50" title="HCP Cloud" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original-wordmark.svg" alt="Prometheus" width="50" height="50" title="Prometheus" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original-wordmark.svg" alt="Grafana" width="50" height="50" title="Grafana" />
+  <img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" width="50" height="50" title="Selenium" />
 </p>
+
 ---
 
 ### 📊 GitHub Stats:
