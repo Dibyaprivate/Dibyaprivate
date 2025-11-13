@@ -55,7 +55,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dibyaprivate&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyaprivate&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dibyaprivate&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dibyaprivate&theme=default" alt="GitHub Streak" />
 </p>
 
 ---
